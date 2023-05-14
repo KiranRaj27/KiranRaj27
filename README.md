@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/kiranrajnv">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="kiranraj586@gmail.com">
+  <a href="mailto:kiranraj586@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
